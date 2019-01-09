@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B673-31F0
+
+ Directory of C:\Users\Disha\Desktop\gitworkspac
+
+09-Jan-19  02:06 PM    <DIR>          .
+09-Jan-19  02:06 PM    <DIR>          ..
+09-Jan-19  02:06 PM                 0 four.txt
+08-Jan-19  03:24 PM               178 git
+08-Jan-19  03:24 PM               396 one.txt
+08-Jan-19  10:46 PM               492 three.txt
+08-Jan-19  03:49 PM               443 two.txt
+08-Jan-19  10:57 PM           911,194 Untitled.png
+               6 File(s)        912,703 bytes
+               2 Dir(s)  29,942,059,008 bytes free
